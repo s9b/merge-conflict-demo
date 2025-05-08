@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        GIT_REPO_URL = 'https://github.com/anjalidubeyy/devops-merge-conflict-demo.git'
+        GIT_REPO_URL = 'https://github.com/s9b/devops-merge-conflict-demo.git'
     }
 
     stages {
